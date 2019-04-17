@@ -1,0 +1,27 @@
+04/18/2019 12:08:20 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:08:21 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:09:24 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:09:24 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:10:36 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:10:37 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:11:25 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:11:26 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:11:38 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:11:38 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:13:47 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:13:47 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:14:49 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:14:49 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:14:49 AM Invalid URL 'catalogue/category/books/travel_2/index.html': No schema supplied. Perhaps you meant http://catalogue/category/books/travel_2/index.html?
+04/18/2019 12:16:22 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:16:22 AM HTTPConnectionPool(host='books.toscrape.com', port=80): Max retries exceeded with url: /index.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x02A32770>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+04/18/2019 12:16:39 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:16:39 AM HTTPConnectionPool(host='books.toscrape.com', port=80): Max retries exceeded with url: /index.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x02C640D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+04/18/2019 12:17:14 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:17:14 AM HTTPConnectionPool(host='books.toscrape.com', port=80): Max retries exceeded with url: /index.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x02C640B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+04/18/2019 12:17:22 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:17:22 AM HTTPConnectionPool(host='books.toscrape.com', port=80): Max retries exceeded with url: /index.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x01624430>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+04/18/2019 12:18:44 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:18:44 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
+04/18/2019 12:19:59 AM Starting new HTTP connection (1): books.toscrape.com:80
+04/18/2019 12:19:59 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 None
